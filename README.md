@@ -1,5 +1,5 @@
 
-![IAA Logo](https://iaa2005.tk/tasks/IAA_Logo.png)
+![IAA Logo](https://raw.githubusercontent.com/Yuamble/IAA2005/main/IAA_Logo.png)
 
 # IAA Physics tasks
 
