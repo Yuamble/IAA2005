@@ -1,7 +1,4 @@
 <head>
-    <meta charset="UTF-8">
-    <title>IAA WorldWide</title>
-    <meta name="description" content="Yuamble - an open source global cryptocurrency and decentralized platform.">
     <link rel="shortcut icon" href="assets/images/logo-icon.ico" type="image/x-icon">
 </head>
 
