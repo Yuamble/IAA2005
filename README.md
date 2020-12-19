@@ -1,5 +1,3 @@
-![IAA Logo](https://raw.githubusercontent.com/Yuamble/IAA2005/main/IAA_Logo.png =200x100)
-
 <img src="https://raw.githubusercontent.com/Yuamble/IAA2005/main/IAA_Logo.png" alt="IAA Logo" width="200" height="100"/>
 
 # IAA Physics tasks
