@@ -1,12 +1,3 @@
-;;;
-{
-  "title": "About Front Matter"
-  "example": {
-    "language": "json"
-  }
-}
-;;;
-
 <head>
     <link rel="shortcut icon" href="assets/images/logo-icon.ico" type="image/x-icon">
 </head>
