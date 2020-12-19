@@ -1,3 +1,6 @@
+---
+title-heading: false
+---
 
 ![IAA Logo](https://raw.githubusercontent.com/Yuamble/IAA2005/main/IAA_Logo.png)
 
