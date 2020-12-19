@@ -1,3 +1,6 @@
+
+![IAA Logo](https://iaa2005.tk/tasks/IAA_Logo.png)
+
 # IAA Physics tasks
 
 Задачи по физике:
