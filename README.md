@@ -1,4 +1,4 @@
-# IAA2005 Physics tasks
+# IAA Physics tasks
 
 Задачи по физике:
  
